@@ -43,10 +43,12 @@ This project introduces learners to:
 1. Clone or download this repository.  
 2. Run the Streamlit app:  
    ```bash
-   streamlit run stock_portfolio_tool.py
+   streamlit run Stock.py
    ```  
 3. Follow the instructions on the interface to manage your portfolio.  
 <BR>
 S JAIGANESH
 <BR>
-LINKEDIN VIDEO LINK: https://www.linkedin.com/in/jaiganeshs539/
+LINKEDIN PROFILE: https://www.linkedin.com/in/jaiganeshs539/
+<BR>
+VIDEO LINK: https://drive.google.com/file/d/1T_s9PW7OFQyh7YQYQWCbo7_AvMm0AQEx/view?usp=sharing
